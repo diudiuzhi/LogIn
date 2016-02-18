@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd">
+<Email>
+ <Email_Account type="type1">
+  <username>grp.hrssc@corp.netease.com</username>
+ </Email_Account>
+ <Email_to type="type2">
+  <CertSalary>hzwangjue15@corp.netease.com</CertSalary>
+  <CertEmploy>zfsc4@corp.netease.com</CertEmploy>
+  <FileAcc>zfsc3@corp.netease.com</FileAcc>
+ </Email_to >
+</Email>
